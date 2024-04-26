@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS my_Category;
+CREATE TABLE my_Category(
+    catCode VARCHAR(3) PRIMARY KEY NOT NULL,
+    catName VARCHAR(12) NOT NULL
+);

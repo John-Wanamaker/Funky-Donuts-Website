@@ -1,0 +1,42 @@
+
+header {
+    grid-column: span 2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: right;
+}
+
+
+.underline-button {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.login-button:hover {
+    background-color: #333;
+}
+
+.login-button {
+    display: inline-block;
+    padding: 10px 20px; 
+    background-color: black; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px; 
+    transition: background-color 0.3s; 
+}
+
+input[type="text"]:not([name="phone"]),
+textarea,
+input[type="checkbox"] {
+  border: 1px solid #ccc;
+}
+
+input[type="text"]:not([name="phone"]):invalid,
+textarea:invalid {
+  border: 1px solid red;
+}

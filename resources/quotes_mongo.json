@@ -1,0 +1,170 @@
+[
+    {
+       "id": 1,
+       "adjective": "Inspiring",
+       "author": "Unknown",
+       "text": "Your time is limited, don't waste it living someone else's life."
+    },
+    {
+       "id": 2,
+       "adjective": "Motivational",
+       "author": "Anonymous",
+       "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+    },
+    {
+        "id": 3,
+        "adjective": "Wise",
+        "author": "Albert Einstein",
+        "text": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+    },
+    {
+        "id": 4,
+        "adjective": "Courageous",
+        "author": "Nelson Mandela",
+        "text": "The brave man is not he who does not feel afraid, but he who conquers that fear."
+    },
+    {
+        "id": 5,
+        "adjective": "Hopeful",
+        "author": "Martin Luther King Jr.",
+        "text": "We must accept finite disappointment, but never lose infinite hope."
+    },
+    {
+        "id": 6,
+        "adjective": "Optimistic",
+        "author": "Walt Disney",
+        "text": "The way to get started is to quit talking and begin doing."
+    },
+    {
+        "id": 7,
+        "adjective": "Positive",
+        "author": "Maya Angelou",
+        "text": "Try to be a rainbow in someone's cloud."
+    },
+    {
+        "id": 8,
+        "adjective": "Creative",
+        "author": "Pablo Picasso",
+        "text": "Every child is an artist. The problem is how to remain an artist once we grow up."
+    },
+    {
+        "id": 9,
+        "adjective": "Humorous",
+        "author": "Mark Twain",
+        "text": "The secret of getting ahead is getting started."
+    },
+    {
+        "id": 10,
+        "adjective": "Reflective",
+        "author": "Socrates",
+        "text": "An unexamined life is not worth living."
+    },
+    {
+        "id": 11,
+        "adjective": "Joyful",
+        "author": "Helen Keller",
+        "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+    },
+    {
+        "id": 12,
+        "adjective": "Empowering",
+        "author": "Eleanor Roosevelt",
+        "text": "No one can make you feel inferior without your consent."
+    },
+    {
+        "id": 13,
+        "adjective": "Resilient",
+        "author": "Vince Lombardi",
+        "text": "It's not whether you get knocked down, it's whether you get up."
+    },
+    {
+        "id": 14,
+        "adjective": "Visionary",
+        "author": "Steve Jobs",
+        "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
+    },
+    {
+        "id": 15,
+        "adjective": "Empathetic",
+        "author": "Mother Teresa",
+        "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+    },
+    {
+        "id": 16,
+        "adjective": "Tenacious",
+        "author": "Winston Churchill",
+        "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+    },
+    {
+        "id": 17,
+        "adjective": "Adventurous",
+        "author": "Helen Keller",
+        "text": "Life is either a daring adventure or nothing at all."
+    },
+    {
+        "id": 18,
+        "adjective": "Adaptable",
+        "author": "Charles Darwin",
+        "text": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."
+    },
+    {
+        "id": 19,
+        "adjective": "Persistent",
+        "author": "Thomas Edison",
+        "text": "I have not failed. I've just found 10,000 ways that won't work."
+    },
+    {
+        "id": 20,
+        "adjective": "Compassionate",
+        "author": "Dalai Lama",
+        "text": "Be kind whenever possible. It is always possible."
+    },
+    {
+        "id": 21,
+        "adjective": "Innovative",
+        "author": "Marie Curie",
+        "text": "Nothing in life is to be feared, it is only to be understood."
+    },
+    {
+        "id": 22,
+        "adjective": "Grateful",
+        "author": "Ralph Waldo Emerson",
+        "text": "Cultivate the habit of being grateful for every good thing that comes to you, and to give thanks continuously."
+    },
+    {
+        "id": 23,
+        "adjective": "Joyful",
+        "author": "Roald Dahl",
+        "text": "Those who don't believe in magic will never find it."
+    },
+    {
+        "id": 24,
+        "adjective": "Confident",
+        "author": "Muhammad Ali",
+        "text": "I am the greatest, I said that even before I knew I was."
+    },
+    {
+        "id": 25,
+        "adjective": "Adventurous",
+        "author": "J.K. Rowling",
+        "text": "It does not do to dwell on dreams and forget to live."
+    },
+    {
+        "id": 26,
+        "adjective": "Optimistic",
+        "author": "Helen Keller",
+        "text": "Keep your face always toward the sunshine—and shadows will fall behind you."
+    },
+    {
+        "id": 27,
+        "adjective": "Inspirational",
+        "author": "Maya Angelou",
+        "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+    },
+    {
+        "id": 28,
+        "adjective": "Resilient",
+        "author": "Napoleon Hill",
+        "text": "Strength and growth come only through continuous effort and struggle."
+    }
+]
