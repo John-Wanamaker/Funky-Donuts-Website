@@ -2,7 +2,7 @@
 
 This is a website for fun, but displays useful tools back coded using with PHP, PHPmyadmin, MongoDB, mySQL, Javascript, CSS, and HTML.
 Some main functions are: 
-- Adds user to a mySQL database when they register on the website. It encrypts the password to the databse
+- Adds user to a mySQL database when they register on the website. It encrypts the password to the database
 - The user can then login and it shows their name on all pages.
 - A daily quote displays by parsing a JSON file from a Mongo databse.
 - Decrements value of units in stock for each product after purchase. 
