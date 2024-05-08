@@ -12,3 +12,7 @@ Some main functions are:
 If you download this code, the backend databse won't work as I'm hiding my mongodb.inc and mysqldb.inc files 
 that include database access information for security reasons. Incorperate these files with your information 
 and you will get to experience modern website functions such as the register/login.
+
+
+![Capture7](https://github.com/John-Wanamaker/Funky-Donuts-Website/assets/144941836/6dcc08fd-c87e-4725-a7fc-5c38648c2a67)
+![Capture8](https://github.com/John-Wanamaker/Funky-Donuts-Website/assets/144941836/c008f8a0-8ef1-4707-849c-1f4cd9071453)
